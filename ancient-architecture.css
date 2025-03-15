@@ -61,7 +61,7 @@ article p::first-letter{
     font-size: 30px;
 }
 article span{
-    background-image: url('images/bg2.jpg');
+    background-image: url('bg2.jpg');
     padding: 15px 10px 10px;
 }
 article span a {
@@ -71,7 +71,7 @@ article span a {
     text-decoration: none;
 }
 p span:first-of-type a::before{
-    content: url('images/comment.png');
+    content: url('comment.png');
     position: relative;
     top: 7px;
     padding: 0 8px ;
